@@ -1,4 +1,3 @@
-import React from 'react';
 import { Printer, Forklift, MessageSquare, ArrowRight } from 'lucide-react';
 
 // Data for apps
