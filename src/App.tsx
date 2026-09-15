@@ -36,7 +36,7 @@ function App() {
           <img src="/logo.png" alt="Semen Merah Putih" className="portal-logo" />
           <h1 className="portal-title"> CG - Plant Batam Portal</h1>
           <p className="portal-subtitle">
-            Central Control Center for PT Cemindo Gemilang Tbk Internal Operational and Management Applications.
+            PT Cemindo Gemilang Tbk - Plant Batam Internal Operational and Management Applications.
           </p>
         </header>
 
