@@ -84,8 +84,7 @@ function App() {
             </div>
           </div>
 
-          {/* Apps Cards */}
-          {apps.map((app, index) => {
+          {apps.map((app) => {
             const Icon = app.icon;
             // Determine icon wrapper class based on ID
             const iconClass = app.id === 'fcmm' ? 'fcmm-icon' :
